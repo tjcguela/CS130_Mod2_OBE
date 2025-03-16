@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s7a7i\\source\\repos\\TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9954E6A7-C3E8-4734-B9EB-4E83BCCB77C6}|TestProject\\TestProject.vcxproj|C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9954E6A7-C3E8-4734-B9EB-4E83BCCB77C6}|TestProject\\TestProject.vcxproj|solutionrelative:TestProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9954E6A7-C3E8-4734-B9EB-4E83BCCB77C6}|TestProject\\TestProject.vcxproj|C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9954E6A7-C3E8-4734-B9EB-4E83BCCB77C6}|TestProject\\TestProject.vcxproj|solutionrelative:TestProject\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9954E6A7-C3E8-4734-B9EB-4E83BCCB77C6}|TestProject\\TestProject.vcxproj|C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9954E6A7-C3E8-4734-B9EB-4E83BCCB77C6}|TestProject\\TestProject.vcxproj|solutionrelative:TestProject\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\main.cpp",
+              "RelativeDocumentMoniker": "TestProject\\main.cpp",
+              "ToolTip": "C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\main.cpp",
+              "RelativeToolTip": "TestProject\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T14:58:11.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\player.cpp",
+              "RelativeDocumentMoniker": "TestProject\\player.cpp",
+              "ToolTip": "C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\player.cpp",
+              "RelativeToolTip": "TestProject\\player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T10:21:08.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\player.h",
+              "RelativeDocumentMoniker": "TestProject\\player.h",
+              "ToolTip": "C:\\Users\\s7a7i\\source\\repos\\TestProject\\TestProject\\player.h",
+              "RelativeToolTip": "TestProject\\player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T09:38:16.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

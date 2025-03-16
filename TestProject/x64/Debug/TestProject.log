@@ -1,0 +1,7 @@
+﻿  player.cpp
+C:\Users\Motty\Downloads\drive-download-20250316T100759Z-001\TestProject\player.cpp(29,67): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  TestProject.vcxproj -> C:\Users\Motty\Downloads\drive-download-20250316T100759Z-001\x64\Debug\TestProject.exe
